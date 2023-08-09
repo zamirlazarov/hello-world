@@ -1,3 +1,3 @@
 # hello-world
-HEllo world repository fir Git tutorial
-fgfgfgfgfgfg
+Hello world repository fir Git tutorial..... YoLo
+
